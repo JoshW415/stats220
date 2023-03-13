@@ -16,8 +16,9 @@
 1. Look at the project instructions
 2. Get confused and look at the lectures and labs
 3. Write some code
-4. **Drink some coffee** (very important) <!--- Look its bold --->
+4. **Drink some coffee** (very important) 
 5. Go back to step 1
+<!-- coffee is important so it's in bold --->
 
 *P.S I think my teacher likes cats, lets try to get some more marks.*
 
