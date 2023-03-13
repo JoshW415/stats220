@@ -20,7 +20,7 @@
 5. Go back to step 1
 <!-- coffee is important so it's in bold --->
 
-*P.S I think my teacher likes cats, lets try to get some more marks.*
+*P.S I think my lecturer likes cats, lets try to get some more marks.*
 
 ![](https://media.tenor.com/IPp9YSFBzxMAAAAM/gif-pet-excavator.gif)
 
